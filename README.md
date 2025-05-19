@@ -16,6 +16,12 @@ The frontend project for SESami is at [SES-Tracker-UI](https://github.com/Shivam
 - Amazon CloudWatch
 - Amazon Cognito
 
+## Infrastructure diagram
+
+API Gateway:
+
+![infrastructure-composer-ses-api-stack yaml](https://github.com/user-attachments/assets/fe86a94c-f11f-431c-9f59-a629352bf5d6)
+
 ## Backend APIs List
 
 We are using API Gateway to route requests to AWS Lambda.
